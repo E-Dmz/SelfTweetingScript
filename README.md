@@ -1,3 +1,3 @@
 # SelfTweetingScript
-[Normal](Normal.png)
-[Minimal](Minimal.png)
+![Normal](Normal.png)
+![Minimal](Minimal.png)

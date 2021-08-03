@@ -1,6 +1,6 @@
 # SelfTweetingScript
 ## First step
-### exemplify how you can tweet with Python and Twitter's API 
+### examplify how you can tweet with Python and Twitter's API 
 From a Jupyter notebook / VSCode / bash / cron job, using the ![python-twitter library](https://python-twitter.readthedocs.io/en/latest/twitter.html)
 
 ![Original](Original/Original.png)
@@ -16,8 +16,8 @@ Here is the one I came up with:
 
 ![Normal](Normal.png)
 
-## Last challenge
-**making the script as short as possible.**
+## One last challenge
+### making that script as short as possible
 69 characters is the shorter I came up with:
 
 ![Minimal](Minimal.png)
@@ -25,5 +25,5 @@ Here is the one I came up with:
 * The dictionnary in the keys module was replaced by a list (to have it unpacked as `*k.k` instead of `**k.k`)
 * The name of the script is s.py
 
-Can you make it even shorter? Please let me know! 
+*Can you make it even shorter? Please let me know!*
 * is it possible to rename the "twitter" package as "t" on your machine? could spare 10+ characters

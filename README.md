@@ -13,10 +13,13 @@ From a Jupyter notebook / VSCode / bash / cron job, using the ![python-twitter l
 ## Next challenge
 ### making a **recursive script,** that tweets itself 
 Here is the one I came up with:
+
 ![Normal](Normal.png)
 
 ## Last challenge
-**making the script as short as possible.** 69 characters is the shorter I could imagine:
+**making the script as short as possible.**
+69 characters is the shorter I came up with:
+
 ![Minimal](Minimal.png)
 
 * The dictionnary in the keys module was replaced by a list (to have it unpacked as `*k.k` instead of `**k.k`)

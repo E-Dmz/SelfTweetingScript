@@ -1,6 +1,5 @@
 # SelfTweetingScript
-## First step
-### examplify how you can tweet with Python and Twitter's API 
+## Goal 1️⃣ = examplify how you can tweet with Python and Twitter's API 
 From a Jupyter notebook / VSCode / bash / cron job, using the ![python-twitter library](https://python-twitter.readthedocs.io/en/latest/twitter.html)
 
 ![Original](Original/Original.png)
@@ -10,14 +9,14 @@ From a Jupyter notebook / VSCode / bash / cron job, using the ![python-twitter l
   * to get keys for a Twitter API, in a dictionnary (keys) inside a module (keys.py)
   * screenshot to be displayed (here named Demo.png)
 
-## Next challenge
-### making a **recursive script,** that tweets itself 
+*If you want to DIY, use the key_template.py file and **make sure you're not publishing your own keys on GitHub***
+
+## Goal 2️⃣ = make a **recursive script,** that tweets itself when executed
 Here is the one I came up with:
 
 ![Normal](Normal.png)
 
-## One last challenge
-### making that script as short as possible
+## Goal 3️⃣ = make that script as short as possible
 69 characters is the shorter I came up with:
 
 ![Minimal](Minimal.png)
